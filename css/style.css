@@ -102,7 +102,7 @@ body:before {
 } */
 
 .topmenu {
-  width: 1920px;
+  width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
   position: absolute;
