@@ -59,22 +59,22 @@ body:before {
   height: 100%;
   background: #2C2F33;
 }
-/* this is to see if its updated */
-/* .container {
+
+.container {
   background: #2C2F33;
   min-height: 100%;
   padding: 0;
-} */
+}
 
-/* .header {
+.header {
   height: 550px;
   width: 100%;
   background-size: cover;
   background-position: center center;
   position: relative;
-} */
+}
 
-.header {
+/* .header {
   border-radius: 12px;
   padding: 40px;
   background-color: #2C2F33;
@@ -85,7 +85,7 @@ body:before {
   font-weight: 300;
   content: "";
   z-index: 10;
-}
+} */
 
 .header:before {
   content: "";
