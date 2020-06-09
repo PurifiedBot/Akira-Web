@@ -66,18 +66,23 @@ body:before {
   padding: 0;
 }
 
-.header {
+/* .header {
   height: 550px;
   width: 100%;
   background-size: cover;
   background-position: center center;
   position: relative;
-}
+} */
 
-/* .header {
+.header {
+  height: 550px;
+  width: 100%;
   border-radius: 12px;
   padding: 40px;
   background-color: #2C2F33;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
   background: #7289da;
   line-height: 20px;
   font-size: 20px;
@@ -85,7 +90,7 @@ body:before {
   font-weight: 300;
   content: "";
   z-index: 10;
-} */
+}
 
 .header:before {
   content: "";
