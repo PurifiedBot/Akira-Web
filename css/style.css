@@ -88,6 +88,7 @@ body:before {
   font-size: 20px;
   color: #2C2F33;
   font-weight: 300;
+  padding-top: 24px;
   content: "";
   z-index: 10;
 }
