@@ -91,15 +91,15 @@ body:before {
   content: "";
   z-index: 10;
 }
-
-.header:before {
+/* probably stupid */
+/* .header:before {
   content: "";
   position: absolute;
   z-index: 10;
   width: 1910px;
   height: 550px;
   background: #7289da;
-}
+} */
 
 .topmenu {
   width: 1920px;

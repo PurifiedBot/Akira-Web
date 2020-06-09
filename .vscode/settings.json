@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6c8e4a32-ecd3-4cd1-a2a4-32ab8a068765/resourceGroups/akira-site/providers/Microsoft.Web/sites/akirabot",
+    "appService.deploySubpath": "."
+}
