@@ -106,23 +106,22 @@ body:before {
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
-  position: absolute;
-  z-index: 20;
+  /* position: absolute;
+  z-index: 20; */
   margin-top: 0px;
   margin-bottom: 20px;
   background: #2C2F33;
 }
 .topmenu a {
-  color: #fff;
+  color: #7289da;
   text-transform: uppercase;
   font-size: 16px;
   line-height: 28px;
-  padding: 0 30px;
-  text-decoration: none;
+  /* padding: 0 30px; */
 }
 .topmenu .line {
-  display: block;
-  width: 45px;
+  /* display: block;
+  width: 45px; */
   background: #7289da;
   border-bottom: 1px solid #fff;
 }
