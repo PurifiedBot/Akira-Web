@@ -121,8 +121,8 @@ body:before {
   /* padding: 0 30px; */
 }
 .topmenu .line {
-  /* display: block;
-  width: 45px; */
+  display: block;
+  /* width: 45px; */
   background: #7289da;
   border-bottom: 1px solid #fff;
 }
