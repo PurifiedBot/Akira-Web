@@ -14,10 +14,29 @@
 <!-- partial:index.partial.html -->
 <div class="container d-flex flex-column">
   <div class="header d-flex flex-column justify-content-between align-items-center">
-    <nav class="topmenu d-flex justify-content-center"><a href="#about">About</a>
+    <!-- <nav class="topmenu d-flex justify-content-center"><a href="#about">About</a>
       <div class="line align-self-center"></div><a href="#rules">Rules</a>
       <div class="line align-self-center"></div><a href="https://discord.gg/rqyHPPh">Join Server</a>
+    </nav> -->
+    <!-- Nav Start-->
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">Akira</a>
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="#about">About</a></li>
+          <li><a href="#rules">Rules</a></li>
+          <li><a href="#!">Join Server (Disabled ATM)</a></li>
+        </ul>
+      </div>
     </nav>
+    
+    <ul class="sidenav" id="mobile-demo">
+      <li><a href="#about">About</a></li>
+      <li><a href="#rules">Rules</a></li>
+      <li><a href="#!">Join Server (Disabled ATM)</a></li>
+    </ul>
+    <!-- Nav End-->
     <div class="server-info d-flex align-items-center flex-column text-center">
       <img class="landing-image" alt="Akira Avatar" src="./img/avatar.png">
       <a class="links-suppressor join-btn btn-pill white" href="https://discord.gg/rqyHPPh">Invite To Server</a>
